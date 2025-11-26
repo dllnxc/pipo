@@ -1,0 +1,30 @@
+
+1] 9bal kol chay lazm documentation , kima cahier de charge/rapport , fiha idée générale , features , materiel
+
+2] Getting familiar with Platformio
+
+3] Lazmna chwaya basics fl electornics , bch nbniw 3lihm , fele5er ki bch na3mlo produit mrigl lezm na3mlo impression PCB (Printed Circuit Board) , fl Phase loula bch nbdaw bplaque à essai
+
+4] Une fois lprototype 7thar , nbdaw fl code li fih logique mta3 l'app mta3na
+
+5] Lcode mta3na l'update mta3o ysir a distance bch mano93doch kol ma bch n3ml mise a jour nmchi nfarek w nsob docn lazm kima nase de donné sa8rouna ngeriwh biha les devices lkol itha bch na3mlo akther mn pipo
+
+6] Lazm ntmakno mlogique ta3 transfer mta3 sout l txt 
+
+7] Lazm nmastriw les API ( for now bch nlansiw bih 8na 3l PC )
+
+8] Nwaliw nt7akmo fl emotions mta3 robot selon type du playlist ( fl phase loula bch tkoun based on the emojie assained lkol playlist )
+
+9] App mobile for remote control 
+
+10] Najmo nordo fiha feature mta3 ambouba rgb , tt7akem fiha w zeda ykono lalwen fiha dynamique selon song 
+
+11] Najmo nzido fazet detecty thaw wala mouvement f bitek de façon que tnjm tb3thlk msg meme si w enty mch f dar 3all app mta3k t9olk fama chkon d5al w enty ta3ty approval ybda ysta3ml fl pipo wala tlansi alarme par exemple ( kan chnbadlo f rayna wl baffle na3mlouh taba3 pipo tnajm 7ata entty ttkalm ml app ta3k w pipo y7ot sout mathalan t9oul o5rej ml bit ama lazm pipo w talifonk zouz ybdaw mconectiyin 3la net :) ) 
+
+
+++ lazm des pfe ml feild mta3k bch twali +- 9riba ldomainek w ysa3dk t7ather rohk llstage 
+++ I think najmo na3mlo kima module norbtoh bl baffle li 3andk de facon que ywalli ysupporty bleutooth w nwaliw sout n7otoh alih hoa instead of lpc
+++ nakrah chat bch nminimiziw el use ta3 l'ai
+++ kan 3ndk afkar o5rin dropi lenna w ay 7aja nkamlouha n7oto done 9odemha 
+++ itha twatha9 journey mta3k that woukd be soooo dopee
+
